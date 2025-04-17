@@ -14,9 +14,22 @@ Speaker_Recognition.ipynb
 ```
 
 <p align="center">
-  <img src="/png/model.png" width=100%> <br>
+  <img src="/figure/model.png" width=100%> <br>
 </p>
 
+## Result
+### Overall Accuracy 
 <p align="center">
-  <img src="/png/model.png" width=100%> <br>
+  <img src="/figure/acc.png" width=100%> <br>
 </p>
+
+### validation loss 
+<p align="center">
+  <img src="/figure/loss.png" width=100%> <br>
+</p>
+
+### Confusion Matrix 
+<p align="center">
+  <img src="/figure/confusion matrix.png" width=100%> <br>
+</p>
+
