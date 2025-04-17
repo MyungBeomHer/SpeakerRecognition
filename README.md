@@ -10,7 +10,7 @@
 
 ### Run 
 ```bash
-main_final.m
+Speaker_Recognition.m
 ```
 
 <p align="center">
