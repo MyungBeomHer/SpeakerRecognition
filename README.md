@@ -14,5 +14,5 @@ main_final.m
 ```
 
 <p align="center">
-  <img src="project_pannel.png" width=100%> <br>
+  <img src="model.png" width=100%> <br>
 </p>
