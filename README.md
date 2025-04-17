@@ -3,10 +3,10 @@
 팀원 : [허명범](https://github.com/MyungBeomHer), [김태규]
 
 ### 프로젝트 주제
-피부 측정시 발생하는 노이즈 데이터를 최소화하는 필터링
+화자 인식
 
 ### 프로젝트 언어 및 환경
-프로젝트 언어 : Pytorch, Python
+프로젝트 언어 : Pytorch
 
 ### Run 
 ```bash
