@@ -10,9 +10,13 @@
 
 ### Run 
 ```bash
-Speaker_Recognition.m
+Speaker_Recognition.ipynb
 ```
 
 <p align="center">
-  <img src="model.png" width=100%> <br>
+  <img src="/png/model.png" width=100%> <br>
+</p>
+
+<p align="center">
+  <img src="/png/model.png" width=100%> <br>
 </p>
