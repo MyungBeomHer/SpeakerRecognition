@@ -13,7 +13,7 @@
 Speaker_Recognition.ipynb
 ```
 
-###Model
+### Model
 <p align="center">
   <img src="/figure/model.png" width=100%> <br>
 </p>
